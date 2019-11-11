@@ -1,3 +1,8 @@
+# Title: Exercise 38
+# Author: Benjamin Lemery
+# Date: 11/11/2019
+# This program demonstrates some functions that can be utilized to manipulate lists.
+
 ten_things = "Apples Oranges Crows Telephone Light Sugar"
 
 print("Wait there are not 10 things in that list. Let's fix that.")
